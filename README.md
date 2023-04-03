@@ -1,1 +1,1 @@
-# Sale-data-visualization-using-excel
+Perform Sale data visualization with raw data set using excel for  obtaining different questions related to it and help business to grow and see thier daily sales. Also done data cleaning in raw data to remove duplicate/null values.
