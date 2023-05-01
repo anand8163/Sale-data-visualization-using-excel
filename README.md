@@ -1,3 +1,7 @@
+# Sale Data Visualization
+
+# Objective
+
 Perform Sale data visualization with raw data set using excel for  obtaining different questions related to it and help business to grow and see thier daily sales. Also done data cleaning in raw data to remove duplicate/null values.
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/125815238/235429507-2e181a29-d4d2-45ba-ab1d-d2bdce92a082.png)
